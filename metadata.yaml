@@ -5,12 +5,17 @@ contributor:
     agent_name: Angell, Clare
     gutenberg_agent_id: '39756'
     url: http://www.gutenberg.org/2009/agents/39756
+covers:
+- cover_type: archival
+  image_path: 72723-h/images/cover.jpg
 creator:
   author:
     agent_name: Davidson, Halsey
     gutenberg_agent_id: '7727'
     url: http://www.gutenberg.org/2009/agents/7727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72723#Navy-boys-to-the-rescue-b-or-Answering-the-wireless-call-for-help
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
