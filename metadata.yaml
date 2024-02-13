@@ -1,0 +1,35 @@
+_repo: Navy-boys-to-the-rescue-b-or-Answering-the-wireless-call-for-help_72723
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Angell, Clare
+    gutenberg_agent_id: '39756'
+    url: http://www.gutenberg.org/2009/agents/39756
+creator:
+  author:
+    agent_name: Davidson, Halsey
+    gutenberg_agent_id: '7727'
+    url: http://www.gutenberg.org/2009/agents/7727
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72723'
+language: en
+pgterms:marc904: https://www.loc.gov/item/19014629/
+pgterms:marc905: 20231126011426davidson
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images made available by the Library of Congress)
+publication_note: '  $aUnited States :$bGeorge Sully and Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Juvenile fiction'
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Navy boys to the rescue : $b or, Answering the wireless call for help'
+url: http://www.gutenberg.org/ebooks/72723
